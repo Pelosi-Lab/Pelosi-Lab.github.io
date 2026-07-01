@@ -30,7 +30,7 @@ twitter_username:
 github_username:  jessiepelosi
 
 # Build settings
-remote_theme: chrishymes/mere-blog-theme
+theme: minima
 plugins:
   - jekyll-feed
 
