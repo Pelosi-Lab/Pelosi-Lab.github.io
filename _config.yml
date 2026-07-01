@@ -30,7 +30,7 @@ twitter_username:
 github_username:  jessiepelosi
 
 # Build settings
-theme: fuse-core
+remote_theme: chrishymes/mere-blog-theme
 plugins:
   - jekyll-feed
 
