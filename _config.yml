@@ -30,7 +30,7 @@ twitter_username:
 github_username:  jessiepelosi
 
 # Build settings
-theme: minima
+theme: jekyll-theme-yat
 plugins:
   - jekyll-feed
 
