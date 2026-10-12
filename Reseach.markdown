@@ -2,7 +2,13 @@
 title: Research
 ---
 
-Research in the lab is driven by the overaching question: **What are the evolutionary process by which patterns of biodiversity and genome diversity are generated and maintained?** Our work spans levels of diversity and time, from the evolution of major clades of plants across deep time to rapidly evolving populations of invasive species, We focus primarily on seed-free plants, especially the ferns, which are the second largest group ofv vascular plants and occupy a pivotal phylogenetic position sister to the seed plants. Ferns are a rich study system as they have important evolutionarily novel traits, such as independent gametophyte and sporophyte life stages. **The lab uses genomic frameworks and traditional botanical inquiry to answer fundamental questions about plant evolution.**
+# What are the evolutionary process by which patterns of biodiversity and genome diversity are generated and maintained? #
+
+<img src="/photos/research_diagram_v7.png" alt = 'research diagram' width = 400 style = "float: right; margin: 0 0 1rem 1.5rem;">
+
+Our work spans levels of diversity and time, from the evolution of major clades of plants across deep time to rapidly evolving populations of invasive species, We focus primarily on seed-free plants, especially the ferns, which are the second largest group ofv vascular plants and occupy a pivotal phylogenetic position sister to the seed plants. Ferns are a rich study system as they have important evolutionarily novel traits, such as independent gametophyte and sporophyte life stages. **The lab uses genomic frameworks and traditional botanical inquiry to answer fundamental questions about plant evolution.**
+
+<div style="clear: both;"></div>
 ## Evolutionary Genomics of the Life Cycle
 
 All land plants alternate between diploid sporophyte and haploid gametophyte life phases. In vascular plants, little is known about the gametophytic life stage despite its vital importance as the site of sexual reproduction and role in the establishment of new populations. In fact, this life stage is thought of as a physiological handicap in the fern life cycle. Due to their unique biology, the gametophyte and sporophyte of ferns can act, essentially, as different free-living organisms, but we do not know: 
@@ -26,7 +32,7 @@ In *Lygodium microphyllum*, we have discovered that the gametophyte is physiolog
 More broadly, there are many other succesful non-native ferns and we are excited to delve into these systems as well. We have built a curated list of colonizing ferns and begun to test fundamental hypotheses about the success of non-native ferns (Pelosi, Yañez et al., 2026). We are particularly interested in assessing: 
  * **Is there repeatability in the loci invovled in the invasion process?**
  * **Are similar evolutionary processes driving invasion success and rapid genome evolution?** 
- 
+
 ## Integrating Big Data with Natural History to Resolve the Tree of Life
 Resolving the relationships among taxa is essential to the study of many questions in evolutionary biology, and we view much of our work through a phylogenetic lens. As part of the NSF-funded GoFlag project, collaborators have sequenced >400 nuclear exons for >4500 fern samples using a targeted-enrichment probe set designed for flagellate land plants. In collaboration with this project, we have generated the most comprehensive nuclear phylogeny of ferns to date. These analyses both synthesized our current understanding of fern genealogy and have clarified remaining challenges in fern phylogenetics, including nuclear-plastid incongruence, gene-tree discordance, and incomplete lineage sorting. Notably, we have used a holistic approach to integrate these genomic data with natural history data (e.g., morphology, cytology) to further understand plant evolution. For example, we are currently collaborating with paleobotanists and phylogenetic modeling experts to build a phylogenetic backbone for *Lygodium* that incoporates its extensive fossil record. 
 
