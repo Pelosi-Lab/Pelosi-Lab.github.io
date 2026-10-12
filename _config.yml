@@ -30,9 +30,10 @@ twitter_username:
 github_username:  jessiepelosi
 
 # Build settings
-theme: jekyll-theme-yat
+remote_theme: "jeffreytse/jekyll-theme-yat"
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 header_pages:
 - index.markdown
